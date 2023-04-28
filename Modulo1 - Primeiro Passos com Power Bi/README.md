@@ -8,15 +8,13 @@ Desafio de Projeto - Analisando Dados com meu Primeiro Projeto no Power BI
 
 **Relatório de Vendas Considerando Produto e Segmento**
 
-![Relatorio de Vendas considerando Produtos e Segmento](C:\Users\Suporte2\Documents\POWER BI\Módulo 1\Primeiros passos com Power BI\Github\Relatorio de Vendas considerando Produtos e Segmento.jpg)
+![image](https://github.com/LucasFerreira93/Dio-PowerBi/blob/main/Modulo1%20-%20Primeiro%20Passos%20com%20Power%20Bi/Relatorio%20de%20Vendas%20considerando%20Produtos%20e%20Segmento.jpg?raw=true)
 
 **Relatório de Vendas Considerando Países e Lucro**
-
-**![Relatorios de Vendas considerando Paises e Lucro](C:\Users\Suporte2\Documents\POWER BI\Módulo 1\Primeiros passos com Power BI\Github\Relatorios de Vendas considerando Paises e Lucro.jpg)**
+![image](https://github.com/LucasFerreira93/Dio-PowerBi/blob/main/Modulo1%20-%20Primeiro%20Passos%20com%20Power%20Bi/Relatorios%20de%20Vendas%20considerando%20Paises%20e%20Lucro.jpg)
 
 **Distribuicao de Lucro, Vendas e Unidades Vendidas por país e Segmento**
-
-![Relatorio de Vendas considerando Produtos e Segmento](C:\Users\Suporte2\Documents\POWER BI\Módulo 1\Primeiros passos com Power BI\Github\Relatorio de Vendas considerando Produtos e Segmento.jpg)
+![image](https://github.com/LucasFerreira93/Dio-PowerBi/blob/main/Modulo1%20-%20Primeiro%20Passos%20com%20Power%20Bi/Distribuicao%20de%20Lucro%20Vendas%20e%20Unidades%20Vendidas%20por%20pais%20e%20segmento.jpg)
 
 
 
